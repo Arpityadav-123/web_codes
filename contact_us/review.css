@@ -1,0 +1,50 @@
+h2{
+    margin-top: 10px;
+   text-align: center;
+   font-size: 30px;
+   font-family: 'Times New Roman', Times, serif;
+}
+p{ 
+   text-align: center;
+   font-weight: 400;
+   font-size: medium;
+   font-weight: 20;
+}
+label{
+font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+}
+#form_pos{
+    
+   margin-left: 20%;
+   padding-left: 2%;
+   margin-right: 20%;
+}
+#button{
+
+    height:40px;
+    width: 100px;
+    font-size: 13px;
+    font-weight: 400;
+    color:black;
+   background-color:yellow;
+   margin-bottom: 10px;
+}
+textarea{
+    background-color: rgb(176, 231, 213);
+    
+}
+.input{
+   height: 30px; width: 98%;
+   font-size: 15px;
+   background-color: rgb(176, 231, 213);
+}
+main{
+    border: 2px solid black;
+  margin: 35%;
+    border-radius: 5px;
+    background-color: white;
+}
+body{
+    background-color: rgb(201, 235, 248);
+}

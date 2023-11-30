@@ -1,0 +1,32 @@
+#button{
+     color:white;
+    background-color:mediumblue;
+}
+h2{
+    text-align: center;
+}
+section{
+    margin-bottom: 2%;
+    margin-top: 0px;
+    text-align: center;
+    font-size: medium;
+    font-weight: 20;
+}
+label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#form_pos{
+    margin-left: 20%;
+    padding-left: 2%;
+    margin-right: 20%;
+}
+#button{
+     height:40px;
+     width: 70px;
+     font-size: 15px;
+
+}
+.input{
+    height: 30px; width: 98%;
+    font-size: 18px;
+}
